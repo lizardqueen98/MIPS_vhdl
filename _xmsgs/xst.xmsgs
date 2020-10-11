@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="790" delta="unknown" >&quot;<arg fmt="%s" index="1">C:/Users/nadij/lab2222/MEMORYINSTRUCTION.vhd</arg>&quot; line <arg fmt="%d" index="2">53</arg>: Index value(s) does not match array range, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="2679" delta="unknown" >Register &lt;<arg fmt="%s" index="1">regIzlaz1</arg>&gt; in unit &lt;<arg fmt="%s" index="2">REGFILE</arg>&gt; has a constant value of <arg fmt="%s" index="3">00000000000000000000000000000000</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">konstanta4</arg>&gt; is used but never assigned. Tied to value <arg fmt="%s" index="2">00000000000000000000000000000100</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="2734" delta="unknown" >Property &quot;<arg fmt="%s" index="1">use_dsp48</arg>&quot; is not applicable for this technology.
+</msg>
+
+<msg type="warning" file="Xst" num="1781" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">data_mem</arg>&gt; is used but never assigned. Tied to default value.
+</msg>
+
+<msg type="warning" file="Xst" num="2734" delta="unknown" >Property &quot;<arg fmt="%s" index="1">use_dsp48</arg>&quot; is not applicable for this technology.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">incremented_addres</arg>&gt; is assigned but never used.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">s_mem_read</arg>&gt; is assigned but never used.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">s_mem_write</arg>&gt; is assigned but never used.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">s_branch</arg>&gt; is assigned but never used.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">instruction</arg>&gt; is assigned but never used.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">s_write_data</arg>&gt; is used but never assigned. Tied to value <arg fmt="%s" index="2">00000000000000000000000000000000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">next_address</arg>&gt; is used but never assigned. Tied to value <arg fmt="%s" index="2">00000000000000000000000000000000</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">s_alu_izlaz</arg>&gt; is assigned but never used.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">s_mem_to_reg</arg>&gt; is assigned but never used.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">s_jump</arg>&gt; is assigned but never used.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="unknown" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="unknown" >Hierarchical block &lt;<arg fmt="%s" index="1">Prog_Broj</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">DATAPATH</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="unknown" >Hierarchical block &lt;<arg fmt="%s" index="1">Pc_adder</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">DATAPATH</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="unknown" >Hierarchical block &lt;<arg fmt="%s" index="1">Memorija_istrukcija</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">DATAPATH</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="unknown" >Hierarchical block &lt;<arg fmt="%s" index="1">sgn_ex</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">DATAPATH</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="unknown" >Hierarchical block &lt;<arg fmt="%s" index="1">ctrl</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">DATAPATH</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="unknown" >Hierarchical block &lt;<arg fmt="%s" index="1">prvi_mux2x1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">DATAPATH</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="unknown" >Hierarchical block &lt;<arg fmt="%s" index="1">registers</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">DATAPATH</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="unknown" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_1_alu</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">DATAPATH</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="unknown" >Hierarchical block &lt;<arg fmt="%s" index="1">alu_control</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">DATAPATH</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="unknown" >Hierarchical block &lt;<arg fmt="%s" index="1">aluu</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">DATAPATH</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1355" delta="unknown" >Unit <arg fmt="%s" index="1">SIGNEXTEND</arg> is merged (low complexity)
+</msg>
+
+<msg type="warning" file="Xst" num="1355" delta="unknown" >Unit <arg fmt="%s" index="1">ALUCONTROL</arg> is merged (low complexity)
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="unknown" >FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_0</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_1</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_2</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_3</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_4</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_5</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_6</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_7</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_8</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_9</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_10</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_11</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_12</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_13</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_14</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_15</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_16</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_17</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_18</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_19</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_20</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_21</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_22</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_23</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_24</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_25</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_26</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_27</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_28</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_29</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_30</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="unknown" >Due to other FF/Latch trimming, FF/Latch  &lt;<arg fmt="%s" index="1">instr_address_31</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">DATAPATH</arg>&gt;.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">DATAPATH</arg>&gt; on signal &lt;<arg fmt="%s" index="2">instr_address&lt;0&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;31&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;30&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;29&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;28&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;27&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;26&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;25&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;24&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;23&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;22&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;21&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;20&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;19&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;18&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;17&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;16&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;15&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;14&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;13&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;12&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;11&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;10&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;9&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;8&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;7&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;6&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;5&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;4&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;3&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;2&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;1&gt;</arg>&gt;
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">REGFILE</arg>&gt; on signal &lt;<arg fmt="%s" index="2">regIzlaz1&lt;0&gt;</arg>&gt;
+</msg>
+
+</messages>
+

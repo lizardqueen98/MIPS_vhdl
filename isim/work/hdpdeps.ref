@@ -1,0 +1,102 @@
+V3 60
+FL C:/Users/nadij/lab2222/ALU.vhd 2019/05/13.14:31:26 J.36
+EN work/ALU 1558911732 FL C:/Users/nadij/lab2222/ALU.vhd PB ieee/std_logic_1164 1179176983 \
+      PB ieee/std_logic_arith 1179176985 PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/ALU/Behavioral 1558911733 \
+      FL C:/Users/nadij/lab2222/ALU.vhd EN work/ALU 1558911732
+FL C:/Users/nadij/lab2222/ALUCONTROL.vhd 2019/05/13.14:28:37 J.36
+EN work/ALUCONTROL 1558911730 FL C:/Users/nadij/lab2222/ALUCONTROL.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/ALUCONTROL/Behavioral 1558911731 \
+      FL C:/Users/nadij/lab2222/ALUCONTROL.vhd EN work/ALUCONTROL 1558911730
+FL C:/Users/nadij/lab2222/CONTROL.vhd 2019/05/13.02:33:53 J.36
+EN work/CONTROL 1558911722 FL C:/Users/nadij/lab2222/CONTROL.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/CONTROL/Behavioral 1558911723 \
+      FL C:/Users/nadij/lab2222/CONTROL.vhd EN work/CONTROL 1558911722
+FL C:/Users/nadij/lab2222/DATAMEMORY.vhd 2019/05/19.15:36:17 J.36
+EN work/DATAMEMORY 1558911734 FL C:/Users/nadij/lab2222/DATAMEMORY.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/DATAMEMORY/Behavioral 1558911735 \
+      FL C:/Users/nadij/lab2222/DATAMEMORY.vhd EN work/DATAMEMORY 1558911734
+FL C:/Users/nadij/lab2222/DATAPATH.vhd 2019/05/27.01:01:47 J.36
+EN work/DATAPATH 1558911736 FL C:/Users/nadij/lab2222/DATAPATH.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/DATAPATH/Behavioral 1558911737 \
+      FL C:/Users/nadij/lab2222/DATAPATH.vhd EN work/DATAPATH 1558911736 CP PC \
+      CP PCADDER CP MEMORYINSTRUCTION CP SIGNEXTEND CP CONTROL CP MUX2_1 CP REGFILE \
+      CP MUX2_1_ZA_ALU CP ALUCONTROL CP ALU CP DATAMEMORY
+FL C:/Users/nadij/lab2222/MEMORYINSTRUCTION.vhd 2019/05/16.17:47:25 J.36
+EN work/MEMORYINSTRUCTION 1558911718 \
+      FL C:/Users/nadij/lab2222/MEMORYINSTRUCTION.vhd PB ieee/std_logic_1164 1179176983 \
+      PB ieee/std_logic_arith 1179176985 PB ieee/STD_LOGIC_UNSIGNED 1179176991 \
+      PB ieee/NUMERIC_STD 1179176997
+AR work/MEMORYINSTRUCTION/Behavioral 1558911719 \
+      FL C:/Users/nadij/lab2222/MEMORYINSTRUCTION.vhd EN work/MEMORYINSTRUCTION 1558911718
+FL C:/Users/nadij/lab2222/MUX2_1.vhd 2019/05/13.02:45:44 J.36
+EN work/MUX2_1 1558911724 FL C:/Users/nadij/lab2222/MUX2_1.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/MUX2_1/Behavioral 1558911725 \
+      FL C:/Users/nadij/lab2222/MUX2_1.vhd EN work/MUX2_1 1558911724
+FL C:/Users/nadij/lab2222/MUX2_1_ZA_ALU.vhd 2019/05/13.14:32:39 J.36
+EN work/MUX2_1_ZA_ALU 1558911728 FL C:/Users/nadij/lab2222/MUX2_1_ZA_ALU.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/MUX2_1_ZA_ALU/Behavioral 1558911729 \
+      FL C:/Users/nadij/lab2222/MUX2_1_ZA_ALU.vhd EN work/MUX2_1_ZA_ALU 1558911728
+FL C:/Users/nadij/lab2222/NoviTest.vhd 2019/05/13.12:11:00 J.36
+EN work/NoviTest_vhd 1557742281 FL C:/Users/nadij/lab2222/NoviTest.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/STD_LOGIC_UNSIGNED 1179176991 \
+      PB ieee/NUMERIC_STD 1179176997
+AR work/NoviTest_vhd/behavior 1557742282 \
+      FL C:/Users/nadij/lab2222/NoviTest.vhd EN work/NoviTest_vhd 1557742281 \
+      CP DATAPATH
+FL C:/Users/nadij/lab2222/PC.vhd 2019/05/13.02:22:28 J.36
+EN work/PC 1558911714 FL C:/Users/nadij/lab2222/PC.vhd PB ieee/std_logic_1164 1179176983 \
+      PB ieee/std_logic_arith 1179176985 PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/PC/Behavioral 1558911715 \
+      FL C:/Users/nadij/lab2222/PC.vhd EN work/PC 1558911714
+FL C:/Users/nadij/lab2222/PCADDER.vhd 2019/05/13.02:23:11 J.36
+EN work/PCADDER 1558911716 FL C:/Users/nadij/lab2222/PCADDER.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/PCADDER/Behavioral 1558911717 \
+      FL C:/Users/nadij/lab2222/PCADDER.vhd EN work/PCADDER 1558911716
+FL C:/Users/nadij/lab2222/REGFILE.vhd 2019/05/16.18:01:10 J.36
+EN work/REGFILE 1558958628 FL C:/Users/nadij/lab2222/REGFILE.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/NUMERIC_STD 1179176997
+AR work/REGFILE/Behavioral 1558958629 \
+      FL C:/Users/nadij/lab2222/REGFILE.vhd EN work/REGFILE 1558958628
+FL C:/Users/nadij/lab2222/regfiletest.vhd 2019/05/27.14:03:46 J.36
+EN work/regfiletest_vhd 1558958630 FL C:/Users/nadij/lab2222/regfiletest.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/STD_LOGIC_UNSIGNED 1179176991 \
+      PB ieee/NUMERIC_STD 1179176997
+AR work/regfiletest_vhd/behavior 1558958631 \
+      FL C:/Users/nadij/lab2222/regfiletest.vhd EN work/regfiletest_vhd 1558958630 \
+      CP REGFILE
+FL C:/Users/nadij/lab2222/SIGNEXTEND.vhd 2019/05/13.02:41:38 J.36
+EN work/SIGNEXTEND 1558911720 FL C:/Users/nadij/lab2222/SIGNEXTEND.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/STD_LOGIC_UNSIGNED 1179176991 \
+      PB ieee/NUMERIC_STD 1179176997
+AR work/SIGNEXTEND/Behavioral 1558911721 \
+      FL C:/Users/nadij/lab2222/SIGNEXTEND.vhd EN work/SIGNEXTEND 1558911720
+FL C:/Users/nadij/lab2222/TestMips.vhd 2019/05/13.02:25:52 J.36
+EN work/TestMips_vhd 1557741962 FL C:/Users/nadij/lab2222/TestMips.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/STD_LOGIC_UNSIGNED 1179176991 \
+      PB ieee/NUMERIC_STD 1179176997
+AR work/TestMips_vhd/behavior 1557741963 \
+      FL C:/Users/nadij/lab2222/TestMips.vhd EN work/TestMips_vhd 1557741962 \
+      CP DATAPATH
+FL C:/Users/nadij/lab2222/testnajnoviji.vhd 2019/05/16.17:19:28 J.36
+EN work/testnajnoviji_vhd 1558911738 FL C:/Users/nadij/lab2222/testnajnoviji.vhd \
+      PB ieee/std_logic_1164 1179176983 PB ieee/STD_LOGIC_UNSIGNED 1179176991 \
+      PB ieee/NUMERIC_STD 1179176997
+AR work/testnajnoviji_vhd/behavior 1558911739 \
+      FL C:/Users/nadij/lab2222/testnajnoviji.vhd EN work/testnajnoviji_vhd 1558911738 \
+      CP DATAPATH

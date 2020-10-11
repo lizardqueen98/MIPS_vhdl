@@ -1,0 +1,2 @@
+xst -ise "C:/Users/nadij/lab2222/lab2222.ise" -intstyle ise -ifn DATAPATH.xst -ofn DATAPATH.syr
+xst -ise "C:/Users/nadij/lab2222/lab2222.ise" -intstyle ise -ifn DATAPATH.xst -ofn DATAPATH.syr
